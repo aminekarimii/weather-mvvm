@@ -1,4 +1,4 @@
-package com.sqli.weatherappmvvm.network
+package com.sqli.weatherappmvvm.core.network
 
 import com.sqli.weatherappmvvm.helper.BASE_URL
 import retrofit2.Retrofit

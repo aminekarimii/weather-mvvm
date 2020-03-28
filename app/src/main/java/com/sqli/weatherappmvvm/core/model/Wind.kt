@@ -1,4 +1,4 @@
-package com.sqli.weatherappmvvm.model
+package com.sqli.weatherappmvvm.core.model
 
 data class Wind(
     val deg: Int,

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WeatherAppMvvm</string>
+    <string name="flag_imageview">flag_imageview</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="feels_like">Feels like</string>
 </resources>
